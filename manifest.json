@@ -1,9 +1,9 @@
 {
-    "name": "TestMod",
+    "name": "aBetterModpack",
     "version_number": "1.1.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/WateryScoobydoo/aBetterModpack",
     "description": "A Better Lethal Company Modpack",
     "dependencies": [
-        "Mythic-TestMod-1.1.0"
+        "BepInEx-BepInExPack-5.4.2100"
     ]
 }
