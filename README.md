@@ -9,6 +9,7 @@ This modpack is still in development and will be releasing more stable versions 
 
 - 2018's LC_API
 - AlexCodesGames' AdditionalSuits
+- AllToasters' QuickRestarts
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
 - ATK's ShipClock
