@@ -1,0 +1,9 @@
+{
+    "name": "TestMod",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "A Better Lethal Company Modpack",
+    "dependencies": [
+        "Mythic-TestMod-1.1.0"
+    ]
+}
