@@ -6,8 +6,8 @@
 
 ### Version 1.1.1
 
-- Updated README.md to reflect added mod and corrected spelling errors
-- Updated CHANGELOG.md to reflect previous changes to the modpack
+- Updated README to reflect added mod and corrected spelling errors
+- Updated CHANGELOG to reflect previous changes to the modpack
 
 ### Version 1.2.0
 
