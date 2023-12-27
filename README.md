@@ -2,7 +2,9 @@
 
 A Better Modpack created for Lethal Company. Initially released to help my friends download all the necessary mods to play
 in a stable environment together, especially those who have entry-level computers. This modpack features many different fun 
-and quality of life mods such as Mimics' and Skinwalkers to better scroll wheel, additional item slots, suits and emotes! 
+and quality of life mods such as Mimics' and Skinwalkers to touchscreen interface, HUD changes, additional item slots 
+for walkie-talkies & flashlights, more suits and emotes! 
+
 This modpack is still in development and will be releasing more stable versions of the current mods in the near future.
 
 ## Featuring Mods

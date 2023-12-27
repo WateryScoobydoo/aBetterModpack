@@ -6,11 +6,13 @@
 
 ### Version 1.1.1
 
-- Updated README to reflect added mod and corrected spelling errors
 - Updated CHANGELOG to reflect previous changes to the modpack
+- Removed version history from README and moved to CHANGELOG file
 
 ### Version 1.2.0
 
 - Added QuickRestart by AllToasters: Allows for quick restart using /restart in chat
 - Added BetterStamina by FlipMods: Adjustable stamina consumption/regen values
+- Updated LethalLib by Evaisa to version 0.9.0
+- Updated README file to reflect the new additional mods
 
