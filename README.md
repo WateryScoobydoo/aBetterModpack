@@ -1,4 +1,4 @@
-# aBetterModpack
+# ABetterModpack
 
 A Better Modpack created for Lethal Company. Initially released to help my friends download all the necessary mods to play
 in a stable environment together, especially those who have entry-level computers. This modpack features many different fun 
@@ -18,6 +18,7 @@ This modpack is still in development and will be releasing more stable versions 
 - EliteMasterEric's Coroner
 - Evaisa's HookGenPatcher
 - Evaisa's LethalLib
+- FlipMods' BetterStamina
 - FlipMods' FasterItemDropShip
 - FlipMods' HotbarPlus
 - FlipMods' LetMeLookDown
@@ -43,10 +44,4 @@ This modpack is still in development and will be releasing more stable versions 
 - Verity's TooManySuits
 - x753's Mimics
 - x753's More_Suits
-
-## Releases
-
-### Version 1.1.0
-
-- Release version
 

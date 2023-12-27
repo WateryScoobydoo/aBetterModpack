@@ -1,11 +1,12 @@
 {
     "name": "ABetterModpack",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/WateryScoobydoo/aBetterModpack",
     "description": "A Better Lethal Company Modpack",
     "dependencies": [
         "2018-LC_API-3.1.0",
         "AlexCodesGames-AdditionalSuits-1.1.3",
+        "AllToasters-QuickRestart-1.2.0",
         "AllToasters-SpectateEnemies-1.5.0",
         "anormaltwig-LateCompany-1.0.7",
         "ATK-ShipClock-0.9.0",
@@ -15,6 +16,7 @@
         "EliteMasterEric-Coroner-1.4.2",
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-0.8.0",
+        "FlipMods-BetterStamina-1.3.2",
         "FlipMods-FasterItemDropship-1.2.0",
         "FlipMods-HotbarPlus-1.4.2",
         "FlipMods-LetMeLookDown-1.0.1",
