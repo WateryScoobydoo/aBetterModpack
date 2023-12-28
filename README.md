@@ -10,6 +10,7 @@ This modpack is still in development and will be releasing more stable versions 
 ## Featuring Mods
 
 - 2018's LC_API
+- akechii's DiscountAlert
 - AlexCodesGames' AdditionalSuits
 - AllToasters' QuickRestarts
 - AllToasters' SpectateEnemies

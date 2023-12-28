@@ -1,10 +1,11 @@
 {
     "name": "ABetterModpack",
-    "version_number": "1.2.0",
+    "version_number": "1.2.1",
     "website_url": "https://github.com/WateryScoobydoo/aBetterModpack",
-    "description": "A Better Lethal Company Modpack",
+    "description": "A Modpack containing emotes, quality of life, mimics, and skinwalkers",
     "dependencies": [
         "2018-LC_API-3.1.0",
+        "akechii-DiscountAlert-2.1.0",
         "AlexCodesGames-AdditionalSuits-1.1.3",
         "AllToasters-QuickRestart-1.2.0",
         "AllToasters-SpectateEnemies-1.5.0",
