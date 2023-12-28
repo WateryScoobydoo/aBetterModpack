@@ -1,5 +1,10 @@
 ## Releases
 
+### Version 1.3.1
+
+- Updated Coroner by EliteMasterEric to version 1.5.0
+- Updated README file with correct formatting for keybinds
+
 ### Version 1.3.0
 
 - Fixed a bug where configurations for some mods were not loading correctly

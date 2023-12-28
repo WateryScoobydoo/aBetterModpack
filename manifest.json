@@ -1,6 +1,6 @@
 {
     "name": "ABetterModpack",
-    "version_number": "1.3.0",
+    "version_number": "1.3.1",
     "website_url": "https://github.com/WateryScoobydoo/aBetterModpack",
     "description": "A Modpack containing emotes, quality of life, mimics, and skinwalkers",
     "dependencies": [
@@ -14,7 +14,7 @@
         "BepInEx-BepInExPack-5.4.2100",
         "bizzlemip-BiggerLobby-2.6.0",
         "Drakorle-MoreItems-1.0.1",
-        "EliteMasterEric-Coroner-1.4.2",
+        "EliteMasterEric-Coroner-1.5.0",
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-0.9.0",
         "FlipMods-BetterStamina-1.3.2",

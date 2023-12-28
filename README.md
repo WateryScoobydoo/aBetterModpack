@@ -15,20 +15,26 @@ This modpack is still in development and will be releasing more stable versions 
 4. Download the latest version of the modpack and install
 5. Run the game via Thunderstore Mod Manager and enjoy the modpack!
 
-## Keybinds
+## Remapped Keybinds
 
-1 - Slot 1
-2 - Slot 2
-3 - Slot 3
-4 - Slot 4
-
-F - Flashlight
-X - Walkie-talkie 
-
-[ - Previous page for Suits
-] - Next page for Suits
-
-F1 - F8 emotes
+| Keybind | Description |
+| :-----------: | ----------- |
+| 1 | Hotbar Slot 1 |
+| 2 | Hotbar Slot 2 |
+| 3 | Hotbar Slot 3 |
+| 4 | Hotbar Slot 4 |
+| F | Flashlight Toggle |
+| X | Walkie-talkie Toggle |
+| [ | Previous Page for Suits |
+| ] | Next Page for Suits |
+| F1 | Dance |
+| F2 | Point |
+| F3 | Middle Finger |
+| F4 | Clap |
+| F5 | Shy |
+| F6 | The Griddy |
+| F7 | Twerk |
+| F8 | Salute |
 
 ## Featuring Mods
 
