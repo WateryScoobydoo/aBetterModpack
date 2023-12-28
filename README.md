@@ -55,9 +55,11 @@ This modpack is still in development and will be releasing more stable versions 
 - FlipMods' FasterItemDropShip
 - FlipMods' HotbarPlus
 - FlipMods' LetMeLookDown
-- FlipMods' ReservedItemSlotCore
-- FlipMods' ReservedWalkieSlot
 - FlipMods' ReservedFlashlightSlot
+- FlipMods' ReservedItemSlotCore
+- FlipMods' ReservedSprayPaintSlot
+- FlipMods' ReservedWalkieSlot
+- FlipMods' ReservedWeaponSlot
 - Hexnet111's SuitSaver
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics

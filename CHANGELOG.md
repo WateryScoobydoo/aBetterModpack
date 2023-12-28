@@ -1,5 +1,10 @@
 ## Releases
 
+### Version 1.4.0
+
+- Added ReservedSprayPaintSlot by FlipMods: Add a reserved item slot for SprayPaints
+- Added ReservedWeaponSlot by FlipMods: Add a reserved item slot for any Weapons (except ladders)
+
 ### Version 1.3.2
 
 - Updated ReservedItemSlotCore by FlipMods to version 1.7.0
