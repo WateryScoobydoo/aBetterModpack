@@ -7,6 +7,29 @@ for walkie-talkies & flashlights, more suits and emotes!
 
 This modpack is still in development and will be releasing more stable versions of the current mods in the near future.
 
+## Installation
+
+1. Download and install [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
+2. Select Lethal Company, and create a new profile aside from Default
+3. Click on Get Mods section in Thunderstore Mod Manager, and search for "ABetterModpack"
+4. Download the latest version of the modpack and install
+5. Run the game via Thunderstore Mod Manager and enjoy the modpack!
+
+## Keybinds
+
+1 - Slot 1
+2 - Slot 2
+3 - Slot 3
+4 - Slot 4
+
+F - Flashlight
+X - Walkie-talkie 
+
+[ - Previous page for Suits
+] - Next page for Suits
+
+F1 - F8 emotes
+
 ## Featuring Mods
 
 - 2018's LC_API
