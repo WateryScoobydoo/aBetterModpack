@@ -13,7 +13,7 @@
 - Updated ReservedItemSlotCore by FlipMods to version 1.6.7
 - Updated HotbarPlus by FlipMods to version 1.4.4
 - Updated SpectateEnemies by AllToasters to version 2.0.0
-- Note: It is recommended to create a new profile to enforce new configurations after this release
+- **Note:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.2.1
 
