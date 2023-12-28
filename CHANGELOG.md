@@ -1,5 +1,10 @@
 ## Releases
 
+### Version 1.3.2
+
+- Updated ReservedItemSlotCore by FlipMods to version 1.7.0
+- Updated BetterItemScan by PopleZoo to version 2.1.7
+
 ### Version 1.3.1
 
 - Updated Coroner by EliteMasterEric to version 1.5.0
@@ -13,7 +18,7 @@
 - Updated ReservedItemSlotCore by FlipMods to version 1.6.7
 - Updated HotbarPlus by FlipMods to version 1.4.4
 - Updated SpectateEnemies by AllToasters to version 2.0.0
-- **Note:** It is highly recommended to create a new profile to enforce new configurations after this release
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.2.1
 
