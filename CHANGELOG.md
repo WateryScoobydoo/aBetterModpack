@@ -1,5 +1,14 @@
 ## Releases
 
+### Version 1.4.1
+
+- Added Hold Scan Button by FutureSavior: Allows you to hold right click to scan, rather than smashing your mouse
+- Updated ReservedSprayPaintSlot by FlipMods to version 1.0.2
+- Updated ReservedFlashlightSlot by FlipMods to version 1.5.2
+- Updated ReservedWalkieSlot by FlipMods to version 1.5.1
+- Updated ReservedItemSlotCore by FlipMods to version 1.7.1
+- Updated Modpack description to reflect the new mods and features available
+
 ### Version 1.4.0
 
 - Added ReservedSprayPaintSlot by FlipMods: Add a reserved item slot for SprayPaints

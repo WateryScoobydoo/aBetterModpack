@@ -62,6 +62,7 @@ This modpack is still in development and will be releasing more stable versions 
 - FlipMods' ReservedSprayPaintSlot
 - FlipMods' ReservedWalkieSlot
 - FlipMods' ReservedWeaponSlot
+- FutureSavor's Hold Scan Button
 - Hexnet111's SuitSaver
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics
