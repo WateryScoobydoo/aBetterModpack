@@ -4,6 +4,16 @@
 
 - Added ReservedSprayPaintSlot by FlipMods: Add a reserved item slot for SprayPaints
 - Added ReservedWeaponSlot by FlipMods: Add a reserved item slot for any Weapons (except ladders)
+- Fixed a bug where configurations for some mods were not loading correctly
+- Adjusted configurations for the BetterStamina mod that was too forgiving in weight speed
+- Adjusted configurations for the Mimics mod to enable multiple Mimics to be spawned in the map
+- Adjusted configurations for the BuyableShotgun mod, increasing price from 700 credits to 1,500 credits
+- Adjusted configurations for the BuyableShotgunShells mod, increasing price from 20 credits to 100 credits
+- Updated Touchscreen by TheDeadSnake to version 1.0.7
+- Updated LethalCompany_InputUtils by Rune580 to version 0.4.4
+- Updated DiscountAlert by akechii to version 2.2.0
+- Updated README to include the new mods and added Lag Mitigation section
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.3.2
 

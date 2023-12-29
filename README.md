@@ -5,6 +5,8 @@ in a stable environment together, especially those who have entry-level computer
 and quality of life mods such as Mimics' and Skinwalkers to touchscreen interface, HUD changes, additional item slots 
 for walkie-talkies & flashlights, more suits and emotes! 
 
+Looking for a more brutal version of this modpack? Check out [ABetterButBrutalModpack](https://thunderstore.io/c/lethal-company/p/WateryScoobydoo/ABetterButBrutalModpack/)
+
 This modpack is still in development and will be releasing more stable versions of the current mods in the near future.
 
 ## Installation
