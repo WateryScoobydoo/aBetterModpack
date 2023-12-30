@@ -1,8 +1,18 @@
 ## Releases
 
+### Version 1.4.2
+
+- Added GlowStickSuits by Norman: New coloured suits to choose from
+- Fixed a bug where changing suit pages did not work as intended
+- Fixed a bug where performance report notes were not loading correctly
+- Updated Touchscreen by TheDeadSnake to version 1.0.8
+- Updated LC_API by to version 3.2.2
+- Updated Coroner by EliteMasterEric to version 1.5.1
+- Updated README to reflect new remapped keybinds
+
 ### Version 1.4.1
 
-- Added Hold Scan Button by FutureSavior: Allows you to hold right click to scan, rather than smashing your mouse
+- Added Hold_Scan_Button by FutureSavior: Allows you to hold right click to scan, rather than smashing your mouse
 - Updated ReservedSprayPaintSlot by FlipMods to version 1.0.2
 - Updated ReservedFlashlightSlot by FlipMods to version 1.5.2
 - Updated ReservedWalkieSlot by FlipMods to version 1.5.1

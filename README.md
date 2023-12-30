@@ -27,8 +27,8 @@ This modpack is still in development and will be releasing more stable versions 
 | 4 | Hotbar Slot 4 |
 | F | Flashlight Toggle |
 | X | Walkie-talkie Toggle |
-| [ | Previous Page for Suits |
-| ] | Next Page for Suits |
+| b | Previous Page for Suits |
+| n | Next Page for Suits |
 | F1 | Dance |
 | F2 | Point |
 | F3 | Middle Finger |
@@ -62,7 +62,7 @@ This modpack is still in development and will be releasing more stable versions 
 - FlipMods' ReservedSprayPaintSlot
 - FlipMods' ReservedWalkieSlot
 - FlipMods' ReservedWeaponSlot
-- FutureSavor's Hold Scan Button
+- FutureSavor's Hold_Scan_Button
 - Hexnet111's SuitSaver
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics
@@ -70,6 +70,7 @@ This modpack is still in development and will be releasing more stable versions 
 - MegaPiggy's BuyableShotgun
 - MegaPiggy's BuyableShotgunShells
 - no00ob's LCSoundTool
+- Norman's GlowStickSuits
 - PopleZoo's BetterItemScan
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
