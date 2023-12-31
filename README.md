@@ -27,8 +27,8 @@ This modpack is still in development and will be releasing more stable versions 
 | 4 | Hotbar Slot 4 |
 | F | Flashlight Toggle |
 | X | Walkie-talkie Toggle |
-| b | Previous Page for Suits |
-| n | Next Page for Suits |
+| B | Previous Page for Suits |
+| N | Next Page for Suits |
 | F1 | Dance |
 | F2 | Point |
 | F3 | Middle Finger |
@@ -47,6 +47,7 @@ This modpack is still in development and will be releasing more stable versions 
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
 - ATK's ShipClock
+- BatTeam's LethalFashion 
 - BepInEx's BepInExPack
 - bizzlemip's BiggerLobby
 - Drakorle's MoreItems
@@ -72,6 +73,7 @@ This modpack is still in development and will be releasing more stable versions 
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - PopleZoo's BetterItemScan
+- quackandcheese's MirrorDecor
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils
