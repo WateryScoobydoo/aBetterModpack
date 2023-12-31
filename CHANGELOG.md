@@ -3,6 +3,8 @@
 ### Version 1.4.4
 
 - Added LethalRichPresence by mrov: Enables Discord Rich Presence support
+- Updated ReservedItemSlotCore by FlipMods to version 1.7.2
+- Updated HotbarPlus by FlipMods to version 1.4.5
 
 ### Version 1.4.3
 
