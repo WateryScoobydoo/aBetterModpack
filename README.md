@@ -67,9 +67,10 @@ This modpack is still in development and will be releasing more stable versions 
 - Hexnet111's SuitSaver
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics
-- monkes_mods' JumpDelayPatch
 - MegaPiggy's BuyableShotgun
 - MegaPiggy's BuyableShotgunShells
+- monkes_mods' JumpDelayPatch
+- mrov's LethalRichPresence
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - PopleZoo's BetterItemScan

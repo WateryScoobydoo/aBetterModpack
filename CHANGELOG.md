@@ -1,5 +1,9 @@
 ## Releases
 
+### Version 1.4.4
+
+- Added LethalRichPresence by mrov: Enables Discord Rich Presence support
+
 ### Version 1.4.3
 
 - Added LethalFashion by BatTeam: Unlocks vanilla suits by default
