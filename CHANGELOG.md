@@ -1,5 +1,18 @@
 ## Releases
 
+### Version 1.4.5
+
+- Added DissonnanceLagFix by linkoid: Reduces the duration of lag spikes
+- Added DoorFix by itsmeowdev: Fixes the hitboxes of doors so items can be picked up through them
+- Added FixCentipedeLag by MassiveNewCoilers: Removes sudden lag by destorying stuck centipede objects
+- Updated LateCompany by anormaltwig to version 1.0.9
+- Updated ReservedItemCoreSlot by FlipMods to version 1.7.3
+- Updated ReservedFlashlightSlot by FlipMods to version 1.5.3
+- Updated HotBarPlus by FlipMods to version 1.4.6
+- Updated Boombox_Controller by KoderTeh to version 1.1.4
+- Updated LethalRichPresence by mrov to version 0.4.1
+- Updated MirrorDecor by quackandcheese to version 1.2.1
+
 ### Version 1.4.4
 
 - Added LethalRichPresence by mrov: Enables Discord Rich Presence support

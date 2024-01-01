@@ -65,7 +65,10 @@ This modpack is still in development and will be releasing more stable versions 
 - FlipMods' ReservedWeaponSlot
 - FutureSavor's Hold_Scan_Button
 - Hexnet111's SuitSaver
+- itsmeowdev's DoorFix
 - KoderTeh's Boombox_Controller
+- linkoid's DissonanceLagFix
+- MassiveNewCoilers' FixCentipedeLag
 - matsuura's HealthMetrics
 - MegaPiggy's BuyableShotgun
 - MegaPiggy's BuyableShotgunShells
