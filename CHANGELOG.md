@@ -8,7 +8,7 @@
 - Updated SpectateEnemies by AllToasters to version 2.1.0
 - Updated LethalLib by Evaisa to version 0.10.1
 - Updated LC_API by 2018 to version 3.2.3
-- Updated HotbarPlus by FlipMods to version 3.2.3
+- Updated HotbarPlus by FlipMods to version 1.4.7
 - Updated ReservedFlashlightSlot by FlipMods to version 1.5.4
 - Updated ReservedWalkieSlot by FlipMods to version 1.5.2
 
