@@ -1,5 +1,17 @@
 ## Releases
 
+### Version 1.4.6
+
+- Updated ReservedItemCoreSlot by FlipMods to version 1.7.5
+- Updated ReservedWeaponSlot by FlipMods to version 1.0.1
+- Updated ReservedSprayPaintSlot by FlipMods to version 1.0.3
+- Updated SpectateEnemies by AllToasters to version 2.1.0
+- Updated LethalLib by Evaisa to version 0.10.1
+- Updated LC_API by 2018 to version 3.2.3
+- Updated HotbarPlus by FlipMods to version 3.2.3
+- Updated ReservedFlashlightSlot by FlipMods to version 1.5.4
+- Updated ReservedWalkieSlot by FlipMods to version 1.5.2
+
 ### Version 1.4.5
 
 - Added DissonnanceLagFix by linkoid: Reduces the duration of lag spikes
