@@ -1,5 +1,17 @@
 ## Releases
 
+### Version 1.4.7
+
+- Updated ReservedItemSlotCore to version 1.7.7
+- Updated ReservedWeaponSlot to version 1.0.3
+- Updated ReservedSprayPaintSlot to version 1.0.5
+- Updated SpectateEnemies to version 2.1.1
+- Updated ReservedFlashlightSlot to version 1.5.5
+- Updated ReservedWalkieSlot to version 1.5.3
+- Updated TooManySuits to version 1.0.5
+- Updated LethalRichPresence to version 0.5.1
+- Updated MirrorDecor to version 1.4.6
+
 ### Version 1.4.6
 
 - Updated ReservedItemCoreSlot by FlipMods to version 1.7.5
