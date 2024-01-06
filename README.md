@@ -66,12 +66,14 @@ This modpack is still in development and will be releasing more stable versions 
 - Hexnet111's SuitSaver
 - HolographicWings' LethalExpansion
 - itsmeowdev's DoorFix
+- Jamil's Corporate Restructure
 - KoderTeh's Boombox_Controller
 - linkoid's DissonanceLagFix
 - MassiveNewCoilers' FixCentipedeLag
 - matsuura's HealthMetrics
 - MegaPiggy's BuyableShotgun
 - MegaPiggy's BuyableShotgunShells
+- Mhz's MoreHead
 - monkes_mods' JumpDelayPatch
 - mrov's LethalRichPresence
 - no00ob's LCSoundTool

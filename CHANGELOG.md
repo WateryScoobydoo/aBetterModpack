@@ -7,6 +7,8 @@
 - Added Kast by Ceelery: Adds a new late-game moon. Proceed with caution
 - Added MoreCompany by notnotnotswipez: A stable lobby player count expansion mod
 - Added LandmineFix by TheBeeTeam: Fixes landmine behaviour in v45
+- Added Corporate Restructure by Jamil: A QoL Overhaul for Corporate Executives
+- Added MoreHead by Mhz: Simple cosmetics, joy for you
 - Removed BiggerLobby by bizzlemip: Incompatible and duplicate, replaced with MoreCompany
 - Removed ShipClock by ATK: Duplicate mod, replaced by LethalExpansion
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
