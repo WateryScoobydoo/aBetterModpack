@@ -1,5 +1,16 @@
 ## Releases
 
+### Version 1.5.0
+
+- Added Scoopys_Variety_Mod by scoopy: Adds a new dungeon-themed interior and more scraps
+- Added LethalExpansion by HolographicWings: Large game expansion with SDK support
+- Added Kast by Ceelery: Adds a new late-game moon. Proceed with caution
+- Added MoreCompany by notnotnotswipez: A stable lobby player count expansion mod
+- Added LandmineFix by TheBeeTeam: Fixes landmine behaviour in v45
+- Removed BiggerLobby by bizzlemip: Incompatible and duplicate, replaced with MoreCompany
+- Removed ShipClock by ATK: Duplicate mod, replaced by LethalExpansion
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
 ### Version 1.4.8
 
 - Updated BetterItemScan to version 2.1.9
