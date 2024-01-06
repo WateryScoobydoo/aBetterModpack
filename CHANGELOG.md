@@ -1,5 +1,14 @@
 ## Releases
 
+### Version 1.4.8
+
+- Updated BetterItemScan to version 2.1.9
+- Updated LC_API to version 3.3.0
+- Updated Boombox_Controller to version 1.1.5
+- Updated Mimics to version 2.3.1
+- Updated FasterItemDropship to version 1.2.1
+- Updated LethalRichPresence to version 0.5.2
+
 ### Version 1.4.7
 
 - Updated ReservedItemSlotCore to version 1.7.7
