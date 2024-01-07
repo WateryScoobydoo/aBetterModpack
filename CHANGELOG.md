@@ -3,6 +3,8 @@
 ### Version 1.5.1
 
 - Removed QuickRestart by AllToasters: Duplicate mod, replaced by Corporate Restructure
+- Adjusted configurations for the LethalExpansion mod: Enabled moon categories
+- Adjusted configurations for the LethalExpansion mod: Disabled moon costs in menu
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.5.0
