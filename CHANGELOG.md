@@ -1,5 +1,10 @@
 ## Releases
 
+### Version 1.5.1
+
+- Removed QuickRestart by AllToasters: Duplicate mod, replaced by Corporate Restructure
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
 ### Version 1.5.0
 
 - Added Scoopys_Variety_Mod by scoopy: Adds a new dungeon-themed interior and more scraps
@@ -9,6 +14,8 @@
 - Added LandmineFix by TheBeeTeam: Fixes landmine behaviour in v45
 - Added Corporate Restructure by Jamil: A QoL Overhaul for Corporate Executives
 - Added MoreHead by Mhz: Simple cosmetics, joy for you
+- Updated BetterItemScan to version 3.0.0
+- Updated HotbarPlus to version 1.4.8
 - Removed BiggerLobby by bizzlemip: Incompatible and duplicate, replaced with MoreCompany
 - Removed ShipClock by ATK: Duplicate mod, replaced by LethalExpansion
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
