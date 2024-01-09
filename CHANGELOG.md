@@ -1,13 +1,46 @@
 ## Releases
 
-### Version 1.5.1
+### Version 1.5.X
+
+<details>
+<summary>Version 1.5.2</summary>
+
+- Added Aquatis by sfDesat: Added the Aquatis moon
+- Added Orion by sfDesat: Added the Orion moon
+- Updated ReservedFlashlightSlot to version 1.5.7
+- Updated Mimics to version 2.3.2
+- Updated LC_API to version 3.3.1
+- Updated LethalExpansion to version 1.3.17
+- Updated LethalRichPresence to version 0.5.3
+- Updated Corporate_Restructure to version 1.0.6
+- Updated MoreCompany to version 1.7.4
+- Updated HotbarPlus to version 1.5.0
+- Updated Scoopys_Variety_Mod to version 0.6.1
+- Updated ReservedItemSlotCore to version 1.8.0
+- Updated MirrorDecor to version 1.2.3
+- Updated SpectateEnemies to version 2.2.0
+- Updated LateCompany to version 1.0.10
+- Updated NameplateTweaks to version 1.0.6
+- Updated SuitSaver to version 1.1.4
+- Updated Skinwalkers to version 2.0.5
+- Updated LethalFashion to version 1.0.5
+- Updated CHANGELOG to be shorter
+- **NOTE:** Due to the release of V47, some mods may not function as intended
+
+</details>
+
+<details>
+<summary>Version 1.5.1</summary>
 
 - Removed QuickRestart by AllToasters: Duplicate mod, replaced by Corporate Restructure
 - Adjusted configurations for the LethalExpansion mod: Enabled moon categories
 - Adjusted configurations for the LethalExpansion mod: Disabled moon costs in menu
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
-### Version 1.5.0
+</details>
+
+<details>
+<summary>Version 1.5.0</summary>
 
 - Added Scoopys_Variety_Mod by scoopy: Adds a new dungeon-themed interior and more scraps
 - Added LethalExpansion by HolographicWings: Large game expansion with SDK support
@@ -22,7 +55,12 @@
 - Removed ShipClock by ATK: Duplicate mod, replaced by LethalExpansion
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
-### Version 1.4.8
+</details>
+
+### Version 1.4.X
+
+<details>
+<summary>Version 1.4.8</summary>
 
 - Updated BetterItemScan to version 2.1.9
 - Updated LC_API to version 3.3.0
@@ -31,7 +69,10 @@
 - Updated FasterItemDropship to version 1.2.1
 - Updated LethalRichPresence to version 0.5.2
 
-### Version 1.4.7
+</details>
+
+<details>
+<summary>Version 1.4.7</summary>
 
 - Updated ReservedItemSlotCore to version 1.7.7
 - Updated ReservedWeaponSlot to version 1.0.3
@@ -43,7 +84,10 @@
 - Updated LethalRichPresence to version 0.5.1
 - Updated MirrorDecor to version 1.4.6
 
-### Version 1.4.6
+</details>
+
+<details>
+<summary>Version 1.4.6</summary>
 
 - Updated ReservedItemCoreSlot by FlipMods to version 1.7.5
 - Updated ReservedWeaponSlot by FlipMods to version 1.0.1
@@ -55,7 +99,10 @@
 - Updated ReservedFlashlightSlot by FlipMods to version 1.5.4
 - Updated ReservedWalkieSlot by FlipMods to version 1.5.2
 
-### Version 1.4.5
+</details>
+
+<details>
+<summary>Version 1.4.5</summary>
 
 - Added DissonnanceLagFix by linkoid: Reduces the duration of lag spikes
 - Added DoorFix by itsmeowdev: Fixes the hitboxes of doors so items can be picked up through them
@@ -68,13 +115,18 @@
 - Updated LethalRichPresence by mrov to version 0.4.1
 - Updated MirrorDecor by quackandcheese to version 1.2.1
 
-### Version 1.4.4
+</details>
+
+<details>
+<summary>Version 1.4.4</summary>
 
 - Added LethalRichPresence by mrov: Enables Discord Rich Presence support
 - Updated ReservedItemSlotCore by FlipMods to version 1.7.2
 - Updated HotbarPlus by FlipMods to version 1.4.5
+</details>
 
-### Version 1.4.3
+<details>
+<summary>Version 1.4.3</summary>
 
 - Added LethalFashion by BatTeam: Unlocks vanilla suits by default
 - Added MirrorDecor by quackandcheese: Adds a mirror decoration to the ship's shop
@@ -88,7 +140,10 @@
 - Updated README to include the new mods
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
-### Version 1.4.2
+</details>
+
+<details>
+<summary>Version 1.4.2</summary>
 
 - Added GlowStickSuits by Norman: New coloured suits to choose from
 - Fixed a bug where changing suit pages did not work as intended
@@ -98,7 +153,10 @@
 - Updated Coroner by EliteMasterEric to version 1.5.1
 - Updated README to reflect new remapped keybinds
 
-### Version 1.4.1
+</details>
+
+<details>
+<summary>Version 1.4.1</summary>
 
 - Added Hold_Scan_Button by FutureSavior: Allows you to hold right click to scan, rather than smashing your mouse
 - Updated ReservedSprayPaintSlot by FlipMods to version 1.0.2
@@ -107,7 +165,10 @@
 - Updated ReservedItemSlotCore by FlipMods to version 1.7.1
 - Updated Modpack description to reflect the new mods and features available
 
-### Version 1.4.0
+</details>
+
+<details>
+<summary>Version 1.4.0</summary>
 
 - Added ReservedSprayPaintSlot by FlipMods: Add a reserved item slot for SprayPaints
 - Added ReservedWeaponSlot by FlipMods: Add a reserved item slot for any Weapons (except ladders)
@@ -122,17 +183,28 @@
 - Updated README to include the new mods and added Lag Mitigation section
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
-### Version 1.3.2
+</details>
+
+### Version 1.3.X
+
+<details>
+<summary>Version 1.3.2</summary>
 
 - Updated ReservedItemSlotCore by FlipMods to version 1.7.0
 - Updated BetterItemScan by PopleZoo to version 2.1.7
 
-### Version 1.3.1
+</details>
+
+<details>
+<summary>Version 1.3.1</summary>
 
 - Updated Coroner by EliteMasterEric to version 1.5.0
 - Updated README file with correct formatting for keybinds
 
-### Version 1.3.0
+</details>
+
+<details>
+<summary>Version 1.3.0</summary>
 
 - Fixed a bug where configurations for some mods were not loading correctly
 - Tweaked configuration files for multiple mods to enhance performance
@@ -142,25 +214,41 @@
 - Updated SpectateEnemies by AllToasters to version 2.0.0
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
-### Version 1.2.1
+</details>
+
+### Version 1.2.X
+<details>
+<summary>Version 1.2.1</summary>
 
 - Added DiscountAlert by akechii: Alerts players when a discount begins
 - Updated Coroner by EliteMasterEric to version 1.5.0
 - Updated modpack description to reflect new changes to the modpack
 
-### Version 1.2.0
+</details>
+
+<details>
+<summary>Version 1.2.0</summary>
 
 - Added QuickRestart by AllToasters: Allows for quick restart using /restart in chat
 - Added BetterStamina by FlipMods: Adjustable stamina consumption/regen values
 - Updated LethalLib by Evaisa to version 0.9.0
 - Updated README file to reflect the new additional mods
 
-### Version 1.1.1
+</details>
+
+### Version 1.1.X
+<details>
+<summary>Version 1.1.1</summary>
 
 - Updated CHANGELOG to reflect previous changes to the modpack
 - Removed version history from README and moved to CHANGELOG file
 
-### Version 1.1.0
+</details>
+
+<details>
+
+<summary>Version 1.1.0</summary>
 
 - Release version
 
+</details>

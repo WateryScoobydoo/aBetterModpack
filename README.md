@@ -84,6 +84,8 @@ This modpack is still in development and will be releasing more stable versions 
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils
 - scoopy's Scoopys_Variety_Mod
+- sfDesat's Aquatis
+- sfDesat's Orion
 - Sligili's HDLethalCompany
 - Sligili's More_Emotes
 - taffyko's NameplateTweaks
