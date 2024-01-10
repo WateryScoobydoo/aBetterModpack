@@ -64,6 +64,7 @@ This modpack is still in development and will be releasing more stable versions 
 - FutureSavor's Hold_Scan_Button
 - Hexnet111's SuitSaver
 - HolographicWings' LethalExpansion
+- IAmBatby's LethalLevelLoader
 - itsmeowdev's DoorFix
 - Jamil's Corporate Restructure
 - KoderTeh's Boombox_Controller

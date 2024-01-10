@@ -3,6 +3,21 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.3</summary>
+
+- Added LethalLevelLoader by IAmBatby: A Custom API to support integrations of custom levels and dungeons
+- Updated LC_API to version 3.3.2
+- Updated LethalExpansion to version 1.3.18
+- Updated LethalLib to version 0.11.0
+- Updated Scoopys_Variety_mod to version 0.6.3
+- Updated ReservedItemSlotCore to version 1.8.4
+- Updated SpectateEnemies to version 2.2.1
+- Updated More_Emotes to version 1.3.1
+- Updated LethalLib to version 0.11.1
+
+</details>
+
+<details>
 <summary>Version 1.5.2</summary>
 
 - Added Aquatis by sfDesat: Added the Aquatis moon
