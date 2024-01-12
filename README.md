@@ -79,6 +79,7 @@ This modpack is still in development and will be releasing more stable versions 
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - notnotnotswipez's MoreCompany
+- Ozone's Runtime_Netcode_Patcher
 - PopleZoo's BetterItemScan
 - quackandcheese's MirrorDecor
 - RickArg's Helmet_Cameras

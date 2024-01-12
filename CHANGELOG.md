@@ -3,6 +3,35 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.4</summary>
+
+- Added Runtime_Netcode_Patcher by Ozone: Patches Netcode RPC methods during runtime utilising Harmony
+- Adjusted configurations for FasterItemDropShip changing LeaveAfterSecondsOpenDoors from 5 seconds to 10 seconds
+- Adjusted configurations for Mimics to always guarantee at least one Mimic per map level
+- Adjusted configurations for Mimics, increasing spawnrate for two Mimics from 20% to 25%
+- Adjusted configurations for Mimics, increasing spawnrate for four Mimics from 3% to 5%
+- Adjusted configurations for ScoopysVarietyMod, changing the Castle Dungeon to all paid moons
+- Updated Boombox_Controller to version 1.1.7
+- Updated MoreHead to version 1.2.3
+- Updated HotbarPlus to version 1.5.1
+- Updated LethalLib to version 0.11.2
+- Updated LethalLevelLoader to version 1.0.6
+- Updated Scoopys_Variety_Mod to version 0.6.4
+- Updated ReservedItemSlotCore to version 1.8.8
+- Updated ReservedWalkieSlot to version 1.5.4
+- Updated ReservedFlashlightSlot to version 1.5.8
+- Updated AdditionalSuits to version 2.0.0
+- Updated More_Emotes to version 1.3.3
+- Updated BuyableShotgunShells to version 1.0.2
+- Updated BuyableShotgun to version 1.0.1
+- Updated Skinwalkers to version 2.0.6
+- Updated LethalFashion to version 1.0.6
+- Updated MoreItems to version 1.0.2
+- Updated Orion to version 1.2.0
+
+</details>
+
+<details>
 <summary>Version 1.5.3</summary>
 
 - Added LethalLevelLoader by IAmBatby: A Custom API to support integrations of custom levels and dungeons
