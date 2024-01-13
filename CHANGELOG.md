@@ -21,6 +21,7 @@
 - Updated ReservedWalkieSlot to version 1.5.5
 - Updated ReservedFlashlightSlot to version 1.5.9
 - Updated Skinwalkers to version 2.0.7
+- Updated LethalExpansion to version 1.3.19
 
 </details>
 
