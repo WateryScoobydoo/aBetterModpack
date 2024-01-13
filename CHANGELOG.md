@@ -3,6 +3,28 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.5</summary>
+
+- Added AdditionalContentFramework AlexCodesGames: Acts as a module for other mods
+- Added NiceChat by taffyko: Better text chat. Infinite scrolling message history
+- Added VoiceHUD by 5Bit: Displays the ingame push-to-talk icon, when detecting voice activity
+- Added AllTheScrap by ViViKo: Adds a bunch of scrap items
+- Added WeatherMultipliers by Blorb: Moons with active weather will contain scrap with higher value
+- Added SCP Foundation Suit by TeamClark: Adds an SCP Facility Guard suit to the game
+- Added AmongUsSuits by ViViKo: Adds several amongus suits
+- Added SquidGameSuits by ViViKo: Adds several squidgame suits
+- Updated Boombox_Controller to version 1.1.8
+- Updated LethalLib to vrsion 0.12.1
+- Updated ReservedItemSlotCore to version 1.8.9
+- Updated ReservedSprayPaintSlot to version 1.0.6
+- Updated ReservedWeaponSlot to version 1.0.5
+- Updated ReservedWalkieSlot to version 1.5.5
+- Updated ReservedFlashlightSlot to version 1.5.9
+- Updated Skinwalkers to version 2.0.7
+
+</details>
+
+<details>
 <summary>Version 1.5.4</summary>
 
 - Added Runtime_Netcode_Patcher by Ozone: Patches Netcode RPC methods during runtime utilising Harmony

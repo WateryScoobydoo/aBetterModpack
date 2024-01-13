@@ -41,12 +41,15 @@ This modpack is still in development and will be releasing more stable versions 
 ## Featuring Mods
 
 - 2018's LC_API
+- 5Bit's VoiceHUD
 - akechii's DiscountAlert
+- AlexCodesGames' AdditionalContentFramework
 - AlexCodesGames' AdditionalSuits
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
-- BatTeam's LethalFashion 
+- BatTeam's LethalFashion
 - BepInEx's BepInExPack
+- Blorb's WeatherMultipliers
 - Ceelery's Kast
 - Drakorle's MoreItems
 - EliteMasterEric's Coroner
@@ -91,10 +94,15 @@ This modpack is still in development and will be releasing more stable versions 
 - Sligili's HDLethalCompany
 - Sligili's More_Emotes
 - taffyko's NameplateTweaks
+- taffyko's NiceChat
+- TeamClark's SCP_Foundation_Suit
 - tinyhoot's ShipLoot
 - TheBeeTeam's LandmineFix
 - TheDeadSnake's Touchscreen
 - Verity's TooManySuits
+- ViViKo's AllTheScrap
+- ViViKo's AmongUsSuits
+- ViViKo's SquidGameSuits
 - x753's Mimics
 - x753's More_Suits
 
