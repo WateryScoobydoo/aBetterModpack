@@ -23,6 +23,7 @@
 - Fixed an issue in 1.5.4 where More_Emotes controller support was not loading correctly
 - Fixed an issue in 1.5.4 where HotbarPlus item drop delay was vanilla
 - Fixed an issue in 1.5.4 where ReservedSprayPaintSlot did not extend the lifespan of the spraypaint
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 </details>
 
