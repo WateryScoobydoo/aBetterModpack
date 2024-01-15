@@ -3,6 +3,30 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.6</summary>
+
+- Adjusted configurations for WeatherMultipliers, increasing stormy weather multipler to 1.25
+- Adjusted configurations for WeatherMultipliers, decreasing flooded weather multipler to 1.2
+- Updated LC_API to version 3.4.1
+- Updated LethalCompany_InputUtils to version 0.5.5
+- Updated HotbarPlus to version 1.5.4
+- Updated LethalLib to version 0.13.0
+- Updated Scoppys_Variety_Mod to version 0.6.5
+- Updated ReservedItemSlotCore to version 1.8.10
+- Updated ReservedWeaponSlot to version 1.0.6
+- Updated ReservedFlashlightSlot to version 1.5.10
+- Updated AdditionalContentFramework to version 1.0.3
+- Updated Skinwalkers to version 4.0.1
+- Fixed an issue in 1.5.0 where the Clock did not show in the ship
+- Fixed an issue in 1.5.2 where LethalRichPresence was not loading correctly
+- Fixed an issue in 1.5.4 where More_Emotes did not load F9 and F10 emotes
+- Fixed an issue in 1.5.4 where More_Emotes controller support was not loading correctly
+- Fixed an issue in 1.5.4 where HotbarPlus item drop delay was vanilla
+- Fixed an issue in 1.5.4 where ReservedSprayPaintSlot did not extend the lifespan of the spraypaint
+
+</details>
+
+<details>
 <summary>Version 1.5.5</summary>
 
 - Added AdditionalContentFramework AlexCodesGames: Acts as a module for other mods

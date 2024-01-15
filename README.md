@@ -29,6 +29,7 @@ This modpack is still in development and will be releasing more stable versions 
 | X | Walkie-talkie Toggle |
 | B | Previous Page for Suits |
 | N | Next Page for Suits |
+| V | Emote Wheel |
 | F1 | Dance |
 | F2 | Point |
 | F3 | Middle Finger |
@@ -37,6 +38,8 @@ This modpack is still in development and will be releasing more stable versions 
 | F6 | The Griddy |
 | F7 | Twerk |
 | F8 | Salute |
+| F9 | Prisyadka |
+| F10 | Sign |
 
 ## Featuring Mods
 
