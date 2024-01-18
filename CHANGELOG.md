@@ -3,6 +3,26 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.7</summary>
+
+- Added CoilHeadStare by TwinDimensionalProductions: Makes the Coilhead slowly turn and face you
+- Added NoSellLimit by ViViKo: Remove the limit of items that can be placed on the deposit desk
+- Added ToggleMute by quackandcheese: Adds a toggle mute hotkey
+- Updated LC_API to version 3.4.4
+- Updated LethalExpansion to version 1.3.21
+- Updated LethalRichPresence to version 0.5.6
+- Updated MoreHead to version 1.2.4
+- Updated HotbarPlus to version 1.5.7
+- Updated LethalLib to version 0.13.2
+- Updated LethalLevelLoader to version 1.0.7
+- Updated ReservedItemSlotCore to version 1.8.12
+- Updated LCSoundTool to version 1.5.0
+- Updated Aquatis to version 1.0.1
+- Updated Orion to version 1.2.3
+
+</details>
+
+<details>
 <summary>Version 1.5.6</summary>
 
 - Adjusted configurations for WeatherMultipliers, increasing stormy weather multipler to 1.25

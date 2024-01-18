@@ -27,6 +27,7 @@ This modpack is still in development and will be releasing more stable versions 
 | 4 | Hotbar Slot 4 |
 | F | Flashlight Toggle |
 | X | Walkie-talkie Toggle |
+| M | Mute Mic Toggle |
 | B | Previous Page for Suits |
 | N | Next Page for Suits |
 | V | Emote Wheel |
@@ -88,6 +89,7 @@ This modpack is still in development and will be releasing more stable versions 
 - Ozone's Runtime_Netcode_Patcher
 - PopleZoo's BetterItemScan
 - quackandcheese's MirrorDecor
+- quackandcheese's ToggleMute
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils
@@ -102,9 +104,11 @@ This modpack is still in development and will be releasing more stable versions 
 - tinyhoot's ShipLoot
 - TheBeeTeam's LandmineFix
 - TheDeadSnake's Touchscreen
+- TwinDimensionalProductions' CoilHeadStare
 - Verity's TooManySuits
 - ViViKo's AllTheScrap
 - ViViKo's AmongUsSuits
+- ViViKo's NoSellLimit
 - ViViKo's SquidGameSuits
 - x753's Mimics
 - x753's More_Suits
