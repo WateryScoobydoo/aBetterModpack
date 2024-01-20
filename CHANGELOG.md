@@ -1,5 +1,38 @@
 ## Releases
 
+### Version 1.6.X
+
+<details>
+<summary>Version 1.6.0</summary>
+
+- Added LethalSettings by willis81808: A centralised place for configuring mods from in-game
+- Added LethalExpansionCore by jockie: De-bloated LethalExpansion fork with only the LethalSDK module support
+- Added ExpansionAssets by sfDesat: Assets for some custom moons
+- Added JigglePhysicsPlugin by HGG: Dependency for adding jiggle physics to cosmetics
+- Added Celest by sfDesat: Added the Celest Scrap Retrieval Program
+- Added E Gypt Moon by KayNetsua: Added the E Gypt Moon Scrap Retrieval Program
+- Added StarlancerMoons by AudioKnight: Added the StarlancerMoons Scrap Retrieval Program
+- Added OrbitRecharge by mrov: Automatically recharge all items on the ship when going into orbit
+- Added SlimeTamingFix by EliteMasterEric: Fixes a bug that made Hygroderes unable to be tamed with Boomboxes
+- Added GamblingMachineAtTheCompany by JunLethalCompany: Adds a gambling machine to gamble your scraps at The Company Moon
+- Added VanillaContentExpansion by bigmcnugget: Vanilla Frendly Additions
+- Updated LC_API to version 3.4.5
+- Updated Boombox_Controller to version 1.1.9
+- Updated MoreCompany to version 1.7.6
+- Updated MoreHead to version 1.2.5
+- Updated MirrorDecor to version 1.3.0
+- Updated ReservedSprayPaintSlot to version 1.0.7
+- Updated ReservedWalkieSlot to version 1.6.0
+- Updated ReservedFlashlightSlot to version 1.6.1
+- Updated Aquatis to version 1.1.0
+- Updated SCP_Foundation_Suit to version 1.1.0
+- Fixed a lag spike caused by MirrorDecor
+- Fixed a bug that caused ghostCodes not to show correct signal tanslator codes
+- Removed unnecessary configurations from the Modpack
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
+</details>
+
 ### Version 1.5.X
 
 <details>

@@ -51,12 +51,15 @@ This modpack is still in development and will be releasing more stable versions 
 - AlexCodesGames' AdditionalSuits
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
+- AudioKnight's StarlancerMoons
 - BatTeam's LethalFashion
 - BepInEx's BepInExPack
+- bigmcnugget's VanillaContentExpansion
 - Blorb's WeatherMultipliers
 - Ceelery's Kast
 - Drakorle's MoreItems
 - EliteMasterEric's Coroner
+- EliteMasterEric's SlimeTamingFix
 - Evaisa's HookGenPatcher
 - Evaisa's LethalLib
 - FlipMods' BetterStamina
@@ -70,10 +73,14 @@ This modpack is still in development and will be releasing more stable versions 
 - FlipMods' ReservedWeaponSlot
 - FutureSavor's Hold_Scan_Button
 - Hexnet111's SuitSaver
+- HGG's JigglePhysicsPlugin
 - HolographicWings' LethalExpansion
 - IAmBatby's LethalLevelLoader
 - itsmeowdev's DoorFix
 - Jamil's Corporate Restructure
+- jockie's LethalExpansionCore
+- JunLethalCompany's GamblingMachineAtTheCompany
+- KayNetsua's E_Gypt_Moon
 - KoderTeh's Boombox_Controller
 - linkoid's DissonanceLagFix
 - MassiveNewCoilers' FixCentipedeLag
@@ -83,6 +90,7 @@ This modpack is still in development and will be releasing more stable versions 
 - Mhz's MoreHead
 - monkes_mods' JumpDelayPatch
 - mrov's LethalRichPresence
+- mrov's OrbitRecharge
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - notnotnotswipez's MoreCompany
@@ -95,6 +103,8 @@ This modpack is still in development and will be releasing more stable versions 
 - Rune580's LethalCompany_InputUtils
 - scoopy's Scoopys_Variety_Mod
 - sfDesat's Aquatis
+- sfDesat's Celest
+- sfDesat's ExpansionAssets
 - sfDesat's Orion
 - Sligili's HDLethalCompany
 - Sligili's More_Emotes
@@ -110,6 +120,7 @@ This modpack is still in development and will be releasing more stable versions 
 - ViViKo's AmongUsSuits
 - ViViKo's NoSellLimit
 - ViViKo's SquidGameSuits
+- willis81808's LethalSettings
 - x753's Mimics
 - x753's More_Suits
 
