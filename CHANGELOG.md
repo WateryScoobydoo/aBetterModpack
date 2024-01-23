@@ -3,6 +3,22 @@
 ### Version 1.6.X
 
 <details>
+<summary>Version 1.6.1</summary>
+
+- Updated E_Gypt_Moon to version 2.0.11
+- Updated JigglePhysicsPlugin to versio 1.1.2
+- Updated LethalExpansion to version 1.3.22
+- Updated MirrorDecor to version 1.3.1
+- Updated VanillaContentExpansion to version 0.1.8
+- Updated LethalCompany_InputUtils to version 0.5.6
+- Updated BuyableShotgun to version 1.0.3
+- Updated BuyableShotgunShells to version 1.0.4
+- Updated BetterItemScan to version 3.0.1
+- Fixed a lag spike caused by MirrorDecor (for real this time!)
+
+</details>
+
+<details>
 <summary>Version 1.6.0</summary>
 
 - Added LethalSettings by willis81808: A centralised place for configuring mods from in-game
